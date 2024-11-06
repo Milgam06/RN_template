@@ -1,9 +1,9 @@
 {
   "expo": {
     "name": "MyApp",
+    "title": "My App",
     "slug": "my-app",
     "version": "1.0.0",
-    "templateDir": "./",
     "orientation": "portrait",
     "icon": "./assets/image/icon.png",
     "userInterfaceStyle": "automatic",
